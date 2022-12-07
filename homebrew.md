@@ -5,5 +5,5 @@
 `sudo ln /opt/homebrew/Cellar/mtr/0.95/sbin/mtr /usr/local/bin/mtr`
 
 *Check network throughput* \
-`brew install iperf3` \
+`brew install iperf3` 
 
